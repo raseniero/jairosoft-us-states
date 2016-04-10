@@ -1,0 +1,27 @@
+{
+  "name": "jairosoft-util-usstates",
+  "version": "1.0.0",
+  "description": "Utility library to manage US states",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raseniero/jairosoft-us-states.git"
+  },
+  "keywords": [
+    "US",
+    "States",
+    "Utilitiy"
+  ],
+  "author": "Ramon Aseniero <raseniero@gmail.com> (http://www.jairosoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raseniero/jairosoft-us-states/issues"
+  },
+  "homepage": "https://github.com/raseniero/jairosoft-us-states#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
